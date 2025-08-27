@@ -25,4 +25,4 @@ sequenceDiagram
   Database-->>Terminal: Customer data
 ```
 ## 测试图片，来自于2020
-![测试图](assets/test_picture_01.jpeg)
+![测试图](images/test_picture_01.jpeg)
