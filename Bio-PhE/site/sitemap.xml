@@ -36,11 +36,11 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://sitename.example/en/diagram-examples/"/>
     </url>
     <url>
-        <loc>https://sitename.example/css/%E8%AE%B2%E4%B8%AD%E6%96%87/</loc>
+        <loc>https://sitename.example/%E8%AE%B2%E4%B8%AD%E6%96%87/</loc>
         <lastmod>2025-08-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://sitename.example/css/%E8%AE%B2%E4%B8%AD%E6%96%87/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://sitename.example/en/css/%E8%AE%B2%E4%B8%AD%E6%96%87/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://sitename.example/%E8%AE%B2%E4%B8%AD%E6%96%87/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sitename.example/en/%E8%AE%B2%E4%B8%AD%E6%96%87/"/>
     </url>
     <url>
         <loc>https://sitename.example/en/</loc>
@@ -78,10 +78,10 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://sitename.example/diagram-examples/"/>
     </url>
     <url>
-        <loc>https://sitename.example/en/css/%E8%AE%B2%E4%B8%AD%E6%96%87/</loc>
+        <loc>https://sitename.example/en/%E8%AE%B2%E4%B8%AD%E6%96%87/</loc>
         <lastmod>2025-08-27</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://sitename.example/en/css/%E8%AE%B2%E4%B8%AD%E6%96%87/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://sitename.example/css/%E8%AE%B2%E4%B8%AD%E6%96%87/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sitename.example/en/%E8%AE%B2%E4%B8%AD%E6%96%87/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://sitename.example/%E8%AE%B2%E4%B8%AD%E6%96%87/"/>
     </url>
 </urlset>
