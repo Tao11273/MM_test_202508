@@ -1,4 +1,4 @@
-site_name: My MkDocs Material Documentation
+site_name: 一个测试项目
 site_url: https://sitename.example
 theme:
   name: material
@@ -48,3 +48,15 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
+
+plugins:
+  - i18n:
+      default_language: zh
+      languages:
+        - locale: en
+          name: English
+          build: true    # And it will be built
+        - locale: zh
+          name: 简体中文
+          default: true  # This is the default language
+          build: true    # This language will also be built

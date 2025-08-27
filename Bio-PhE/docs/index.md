@@ -1,8 +1,8 @@
-# Welcome to MkDocs
+# 你好啊，这是一个测试项目
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+更多内容有待后续更新
 
-## Commands
+## 分点测试栏
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
@@ -17,3 +17,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
 ## 你哈
 你好啊！这里是我的自我陈述
+我觉得我们需要更好地
