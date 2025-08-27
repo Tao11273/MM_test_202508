@@ -1,23 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://sitename.example/</loc>
-         <lastmod>2025-08-26</lastmod>
+        <loc>https://sitename.example/</loc>
+        <lastmod>2025-08-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://sitename.example/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sitename.example/en/"/>
     </url>
     <url>
-         <loc>https://sitename.example/admonitions/</loc>
-         <lastmod>2025-08-26</lastmod>
+        <loc>https://sitename.example/admonitions/</loc>
+        <lastmod>2025-08-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://sitename.example/admonitions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sitename.example/en/admonitions/"/>
     </url>
     <url>
-         <loc>https://sitename.example/code-examples/</loc>
-         <lastmod>2025-08-26</lastmod>
+        <loc>https://sitename.example/code-examples/</loc>
+        <lastmod>2025-08-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://sitename.example/code-examples/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sitename.example/en/code-examples/"/>
     </url>
     <url>
-         <loc>https://sitename.example/content-tabs/</loc>
-         <lastmod>2025-08-26</lastmod>
+        <loc>https://sitename.example/content-tabs/</loc>
+        <lastmod>2025-08-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://sitename.example/content-tabs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sitename.example/en/content-tabs/"/>
     </url>
     <url>
-         <loc>https://sitename.example/diagram-examples/</loc>
-         <lastmod>2025-08-26</lastmod>
+        <loc>https://sitename.example/diagram-examples/</loc>
+        <lastmod>2025-08-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://sitename.example/diagram-examples/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sitename.example/en/diagram-examples/"/>
+    </url>
+    <url>
+        <loc>https://sitename.example/en/</loc>
+        <lastmod>2025-08-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sitename.example/en/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://sitename.example/"/>
+    </url>
+    <url>
+        <loc>https://sitename.example/en/admonitions/</loc>
+        <lastmod>2025-08-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sitename.example/en/admonitions/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://sitename.example/admonitions/"/>
+    </url>
+    <url>
+        <loc>https://sitename.example/en/code-examples/</loc>
+        <lastmod>2025-08-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sitename.example/en/code-examples/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://sitename.example/code-examples/"/>
+    </url>
+    <url>
+        <loc>https://sitename.example/en/content-tabs/</loc>
+        <lastmod>2025-08-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sitename.example/en/content-tabs/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://sitename.example/content-tabs/"/>
+    </url>
+    <url>
+        <loc>https://sitename.example/en/diagram-examples/</loc>
+        <lastmod>2025-08-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sitename.example/en/diagram-examples/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://sitename.example/diagram-examples/"/>
     </url>
 </urlset>
