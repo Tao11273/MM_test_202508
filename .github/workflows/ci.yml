@@ -25,6 +25,5 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-material mkdocs-static-i18n
+      - run: pip install mkdocs-material mkdocs-static-i18n jieba pymdown-extensions
       - run: mkdocs gh-deploy --force
