@@ -61,6 +61,6 @@ plugins:
           default: false
           build: true
   - search:
-          lang: 
+      lang: 
           - zh
           - en
