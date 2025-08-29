@@ -1,6 +1,6 @@
-# 你好啊，这是一个测试项目
+# 前言
 
-更多内容有待后续更新
+你好啊，这是一个测试项目，更多内容有待后续更新
 
 ## 分点测试栏
 
@@ -9,12 +9,9 @@
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-## 你哈
-你好啊！这里是我的自我陈述
-我觉得我们需要更好地
+## 同学你好啊~
+你好啊！同学。本文档采用的阅读方式将是，在对应事件上面抛出问题，并不做具体解答。（如果个人时间足够，或者个人答案足够正确，我是希望解答的。但是当下，上述两种条件均不成立。）
+
+
+在下觉得，同学们应该学会在借助工具的条件下，自我解决问题。
