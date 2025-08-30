@@ -6,6 +6,8 @@ theme:
   favicon: assets/favicon.ico
   features:
     - navigation.footer
+    - search.suggest
+    - search.highlight
   palette:
     # Light Mode
     - scheme: default
@@ -49,6 +51,10 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 
+
+
+
+
 plugins:
   - i18n:
       languages:
@@ -61,6 +67,45 @@ plugins:
           default: false
           build: true
   - search:
-      lang: 
-          - zh
-          - en
+      lang:
+        - zh
+        - en
+      separator: '[\s\-,:!=，。；：“”‘’（）【】《》\u200b]'
+
+
+nav:
+- 前言: "index.md"
+- 选择的方式: "测试说明.md"
+- 个人成长内容: 
+  - 人际关系:
+    - 前言: "个人成长内容/人际关系/index.md"
+    #- 交友相处篇:
+    #- 团队合作篇:
+    #- 送礼请客篇:
+    #- 亲密关系篇:
+    #- 异性相处篇:
+  - 可以掌握的技能:
+    - 前言: "个人成长内容/可以掌握的技能/index.md"
+  #- 本科毕业之后的选择:
+    #- 就业:
+    #- 深造:
+    #- 考公考编:
+- 文娱生活:
+  - 前言: "文娱生活/index.md"
+  - 游玩指南: "文娱生活/游玩指南.md"
+- 竞赛、论文、活动: 
+  - 前言: "竞赛、论文、活动/index.md"
+- 经验贴: 
+  - 前言: "经验贴/收集说明.md"
+  - 学长学姐说:
+    - 2019年入学:
+      - 空白文档: "经验贴/学长学姐说/2019年入学/空白文档.md"
+    - 2020年入学:
+      - 空白文档: "经验贴/学长学姐说/2020年入学/空白文档.md"
+    - 2021年入学:
+      - 空白文档: "经验贴/学长学姐说/2021年入学/空白文档.md"
+    - 2022年入学:
+      - 空白文档: "经验贴/学长学姐说/2022年入学/空白文档.md"
+- 轶事:
+  - 前言: "轶事/index.md"
+- 后记: "后记.md"
