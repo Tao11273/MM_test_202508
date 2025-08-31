@@ -74,8 +74,8 @@ plugins:
 
 
 nav:
-- 目录: "contents.md"
-- 前言: "index.md"
+- 目录: "index.md"
+- 前言: "前言.md"
 - 选择的方式: "测试说明.md"
 - 个人成长内容: 
   - 人际关系:
