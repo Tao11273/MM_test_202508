@@ -51,7 +51,17 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 
-
+extra:
+  comments:
+    provider: giscus
+    giscus:
+      repo: "username/repo"
+      repo_id: "你的 repo_id"
+      category: "Comments"
+      category_id: "你的 category_id"
+      mapping: "pathname"
+      reactions_enabled: true
+      theme: preferred_color_scheme
 
 
 
@@ -71,7 +81,7 @@ plugins:
         - zh
         - en
       separator: '[\s\-,:!=，。；：“”‘’（）【】《》\u200b]'
-
+#  - pdf-export:
 
 nav:
 - 目录: "index.md"
