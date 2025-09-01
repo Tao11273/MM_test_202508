@@ -55,13 +55,14 @@ extra:
   comments:
     provider: giscus
     giscus:
-      repo: "username/repo"
-      repo_id: "你的 repo_id"
-      category: "Comments"
-      category_id: "你的 category_id"
+      repo: "Tao11273/MM_test_202508"
+      repo_id: "R_kgDOPklBag"
+      category: "Announcements"
+      category_id: "DIC_kwDOPklBas4Cu003"
       mapping: "pathname"
       reactions_enabled: true
       theme: preferred_color_scheme
+
 
 
 
