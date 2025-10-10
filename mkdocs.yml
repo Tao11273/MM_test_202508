@@ -32,8 +32,13 @@ theme:
 extra_css:
   - css/extra.css
 
+
 markdown_extensions:
   - attr_list
+  # 启用 Attribute List 扩展，这是解析 { .grid } 样式的关键
+  # 启用 MD in HTML 扩展，允许你在 HTML 块内（如 <div class="grid cards" markdown>）
+  # 正常使用 Markdown 语法，如列表、粗体等
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg

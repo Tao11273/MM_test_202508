@@ -1,4 +1,16 @@
-# 📖 目录
+<h1 style="
+    font-size: 2.2em; 
+    text-align: center; 
+    letter-spacing: 1px; 
+    margin-top: 1.2em; 
+    color: var(--md-default-fg-color); /* 使用主题文字颜色变量 */
+    font-family: 'FZWeiBei-S03S', 'FangSong', 'KaiTi', '楷体', serif; /* 简化字体 */
+">
+    <b>问答之书：探索比答案更重要的思考</b>
+</h1>
+
+
+
 - [目录](index.md)
 - [前言](前言.md)
 - [选择的方式](测试说明.md)
@@ -56,6 +68,40 @@
     - [后记](后记.md)
 
 ---
+
+<div id="book-cards" class="grid cards md-grid-3" markdown>
+-   ### :material-brain: 批判性思维
+    
+    !!! abstract "核心价值"
+        深入剖析编程原则、架构选择、以及工程伦理背后的“为什么”。
+        
+-   ### :material-robot-excited: 超越工具
+    
+    !!! note "思维进阶"
+        抛开具体语言或框架的语法细节，掌握软件构建的底层哲学和通用原则。
+        
+-   ### :material-leaf: 长期主义
+    
+    !!! info "人生规划"
+        收集职业发展、知识积累中的反思性问题，帮助你规划长远的学习路径。
+        
+-   ### :material-flask: 科研方法论
+    
+    !!! question "科研之道"
+        聚焦实验设计、数据解读、以及在交叉学科中如何快速学习和定位问题。
+</div>
+
+---
+
+<p class="h3" style="text-align: center;">准备好挑战你的思维了吗？</p>
+
+<p style="text-align: center;">
+<a href="前言/" class="md-button md-button--primary" style="margin: 0 auto; display: inline-block;">
+    开始你的问答之旅
+</a>
+</p>
+
+---
 ## 一位网友说的话
 
 下面是我在 csdiy 评论区看到的一段话，说得很有道理。
@@ -65,4 +111,4 @@
 ---
 
 暂时联系方式
-QQ: 1428770283
+QQ群: 1062748231
