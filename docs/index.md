@@ -60,6 +60,7 @@
             - [空白文档](经验贴/学长学姐说/2021年入学/空白文档.md)
         - 2022年入学
             - [空白文档](经验贴/学长学姐说/2022年入学/空白文档.md)
+            - [大学如何规划](经验贴/学长学姐说/2022年入学/大学如何规划.md)
 
 ??? info "轶事"
       - [前言](轶事/index.md)
@@ -72,31 +73,33 @@
 <div id="book-cards" class="grid cards md-grid-3" markdown>
 -   ### :material-brain: 批判性思维
     
-    !!! abstract "核心价值"
-        深入剖析编程原则、架构选择、以及工程伦理背后的“为什么”。
-        
--   ### :material-robot-excited: 超越工具
-    
-    !!! note "思维进阶"
-        抛开具体语言或框架的语法细节，掌握软件构建的底层哲学和通用原则。
-        
--   ### :material-leaf: 长期主义
-    
-    !!! info "人生规划"
-        收集职业发展、知识积累中的反思性问题，帮助你规划长远的学习路径。
-        
--   ### :material-flask: 科研方法论
-    
-    !!! question "科研之道"
-        聚焦实验设计、数据解读、以及在交叉学科中如何快速学习和定位问题。
+    !!! abstract "核心价值：探寻本源与构建蓝图"
+        深度洞察**事物运作的根本原理、系统设计的结构逻辑**，以及任何领域中**决策背后的伦理考量与深层动机**。
+
+-   ### :material-robot-excited: 突破工具的局限
+
+    !!! note "思维进阶：从操作到洞察"
+        超越**具体方法、技术或工具**的表面操作细节，**掌握知识构建的底层哲学和跨学科的通用原则**。
+      
+-   ### :material-leaf: 驱动长期的发展
+
+    !!! info "人生规划：反思与持续成长"
+        汇集**职业生涯、技能积累与个人发展中的关键反思性问题**，指导您构建**宏大且可持续的终身学习路径**。
+      
+-    ### :material-flask: 探索与创新的方法论
+
+    !!! question "科研之道：系统化解决复杂问题"
+        聚焦**严谨的研究设计、客观的数据分析与解读**，以及在**跨界领域中高效吸收新知、精准定义核心挑战**的能力。
+
 </div>
 
 ---
 
+</p>
 <p class="h3" style="text-align: center;">准备好挑战你的思维了吗？</p>
 
 <p style="text-align: center;">
-<a href="前言/" class="md-button md-button--primary" style="margin: 0 auto; display: inline-block;">
+<a href="前言/" class="md-button md-button--primary" style="display: inline-block;">
     开始你的问答之旅
 </a>
 </p>
