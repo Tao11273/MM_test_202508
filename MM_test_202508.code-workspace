@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../python_learning"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
